@@ -13,4 +13,8 @@
     <PackageReference Include="Avalara.Fgc.BaseTestProject.Pipeline" Version="1.0.2" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\TaxRegionLookup.SDK\TaxRegionLookup.SDK.csproj" />
+  </ItemGroup>
+
 </Project>
